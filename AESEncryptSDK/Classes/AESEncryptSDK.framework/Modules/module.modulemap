@@ -1,0 +1,6 @@
+framework module AESEncryptSDK {
+  umbrella header "AESEncryptSDK.h"
+
+  export *
+  module * { export * }
+}

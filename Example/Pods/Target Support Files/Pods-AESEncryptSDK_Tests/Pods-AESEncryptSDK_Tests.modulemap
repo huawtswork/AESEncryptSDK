@@ -1,0 +1,6 @@
+framework module Pods_AESEncryptSDK_Tests {
+  umbrella header "Pods-AESEncryptSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
