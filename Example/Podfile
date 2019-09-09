@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'AESEncryptSDK_Example' do
+  pod 'AESEncryptSDK', :path => '../'
+
+  target 'AESEncryptSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
